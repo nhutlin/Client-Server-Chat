@@ -1,0 +1,13 @@
+C:\Users\HP\OneDrive\Máy tính\UIT-Study\HK4\NT106\C#\21521081_TranNhutLinh_Exercise3\21521081_TranNhutLinh_Exercise3\bin\Debug\21521081_TranNhutLinh_Exercise3.exe.config
+C:\Users\HP\OneDrive\Máy tính\UIT-Study\HK4\NT106\C#\21521081_TranNhutLinh_Exercise3\21521081_TranNhutLinh_Exercise3\bin\Debug\21521081_TranNhutLinh_Exercise3.exe
+C:\Users\HP\OneDrive\Máy tính\UIT-Study\HK4\NT106\C#\21521081_TranNhutLinh_Exercise3\21521081_TranNhutLinh_Exercise3\bin\Debug\21521081_TranNhutLinh_Exercise3.pdb
+C:\Users\HP\OneDrive\Máy tính\UIT-Study\HK4\NT106\C#\21521081_TranNhutLinh_Exercise3\21521081_TranNhutLinh_Exercise3\obj\Debug\21521081_TranNhutLinh_Exercise3.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Máy tính\UIT-Study\HK4\NT106\C#\21521081_TranNhutLinh_Exercise3\21521081_TranNhutLinh_Exercise3\obj\Debug\21521081_TranNhutLinh_Exercise3.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\OneDrive\Máy tính\UIT-Study\HK4\NT106\C#\21521081_TranNhutLinh_Exercise3\21521081_TranNhutLinh_Exercise3\obj\Debug\_21521081_TranNhutLinh_Exercise3.Form1.resources
+C:\Users\HP\OneDrive\Máy tính\UIT-Study\HK4\NT106\C#\21521081_TranNhutLinh_Exercise3\21521081_TranNhutLinh_Exercise3\obj\Debug\_21521081_TranNhutLinh_Exercise3.Properties.Resources.resources
+C:\Users\HP\OneDrive\Máy tính\UIT-Study\HK4\NT106\C#\21521081_TranNhutLinh_Exercise3\21521081_TranNhutLinh_Exercise3\obj\Debug\21521081_TranNhutLinh_Exercise3.csproj.GenerateResource.cache
+C:\Users\HP\OneDrive\Máy tính\UIT-Study\HK4\NT106\C#\21521081_TranNhutLinh_Exercise3\21521081_TranNhutLinh_Exercise3\obj\Debug\21521081_TranNhutLinh_Exercise3.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Máy tính\UIT-Study\HK4\NT106\C#\21521081_TranNhutLinh_Exercise3\21521081_TranNhutLinh_Exercise3\obj\Debug\21521081_TranNhutLinh_Exercise3.exe
+C:\Users\HP\OneDrive\Máy tính\UIT-Study\HK4\NT106\C#\21521081_TranNhutLinh_Exercise3\21521081_TranNhutLinh_Exercise3\obj\Debug\21521081_TranNhutLinh_Exercise3.pdb
+C:\Users\HP\OneDrive\Máy tính\UIT-Study\HK4\NT106\C#\21521081_TranNhutLinh_Exercise3\21521081_TranNhutLinh_Exercise3\obj\Debug\_21521081_TranNhutLinh_Exercise3.ClientSide.resources
+C:\Users\HP\OneDrive\Máy tính\UIT-Study\HK4\NT106\C#\21521081_TranNhutLinh_Exercise3\21521081_TranNhutLinh_Exercise3\obj\Debug\_21521081_TranNhutLinh_Exercise3.ServerSide.resources
